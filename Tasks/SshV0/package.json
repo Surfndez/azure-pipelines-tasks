@@ -7,7 +7,7 @@
     "azure-pipelines-task-lib": "^3.0.6-preview.0",
     "ssh2": "0.8.2",
     "ssh2-sftp-client": "^5.1.2",
-    "uuid": "^3.2.1",
+    "uuid": "^14.0.0",
     "@types/mocha": "^5.2.7"
   },
   "devDependencies": {
