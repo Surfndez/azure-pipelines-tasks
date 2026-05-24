@@ -16,6 +16,6 @@
   "dependencies": {
     "@types/node": "^8.0.0",
     "azure-pipelines-task-lib": "^2.8.0",
-    "basic-ftp": "^3.4.3"
+    "basic-ftp": "^5.3.1"
   }
 }
